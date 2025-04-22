@@ -2,12 +2,12 @@
   "name": "uptime-status",
   "version": "1.0.0",
   "private": true,
-  "author": "JLinmr",
-  "url": "https://www.bsgun.cn",
+  "author": "Coul",
+  "url": "https://www.coul.top",
   "email": "ruoms@qq.com",
   "repository": {
     "type": "git",
-    "url": "https://github.com/JLinmr/Uptime-Status"
+    "url": "https://github.com/coultop/Uptime-Status"
   },
   "type": "module",
   "scripts": {
